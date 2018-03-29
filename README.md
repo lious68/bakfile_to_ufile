@@ -4,7 +4,7 @@
 requests  2.10版本或以下
 测试在python3环境下完成。
 
-
+有linux后缀的，表示linux下环境，默认为windows
 
 打开 config.py 修改以下配置
 
